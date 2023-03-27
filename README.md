@@ -3,7 +3,7 @@
 ```js
 const eddiexspansk = {
   prenous: "he" | "him",
-  code: [javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React, Node]
 }
 ```
