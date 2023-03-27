@@ -6,6 +6,11 @@ const eddiexspansk = {
   tools: [React, Node]
 }
 ```
+
+You can find me: 
+
+- [LinkedIn](https://www.linkedin.com/in/eduardo-pinto-producer)
+
 <!--
 **Eddiexspansk/Eddiexspansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
