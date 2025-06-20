@@ -13,5 +13,5 @@ You can find me:
 - [LinkedIn](https://www.linkedin.com/in/eduardo-pinto-producer)
 
 - 🔭 I’m currently working on ANDROID APP
-- 🌱 I’m currently learning KOTLIN
+- 🌱 I’m currently learning KOTLIN, Jetpack Compose, C++ and Python.
 
